@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+       	<class name="habit.habitos"/>
+      	    
+    </classes>
+  </test> 
+  
+   <test name="Test1">
+    <classes>
+           
+      <class name="habit.CRM"/>
+       	
+       
+    </classes>
+  </test> 
+  
+  <!-- Test -->
+</suite> <!-- Suite -->
