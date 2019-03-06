@@ -126,19 +126,21 @@ public class CRM {
 		}	
 
 	@Test
-	public void Login_valid() {
+	public void Login_valid() throws InterruptedException {
 
 		String un = "vivek";
 		String pw = "vivek";
 
 		WebElement uname = d.findElement(By.id("kitchen_user_user_name"));
 		WebElement pwd = d.findElement(By.id("kitchen_user_password_digest"));
-		WebElement Rme = d.findElement(By.xpath("//*[@id=\"new_kitchen_user\"]/div/div[2]/span/input"));
+	// 	WebElement Rme = d.findElement(By.xpath("//*[@id=\"new_kitchen_user\"]/div/div[2]/span/input"));
 		WebElement submit = d.findElement(By.name("commit"));
 
 		if (uname.isDisplayed()) 
 		
 		{
+			
+			Thread.sleep(2000);
 			
 			System.out.println("is correct");
 		
@@ -1724,7 +1726,7 @@ public class CRM {
 			
 			Thread.sleep(100);
 
-			System.setProperty("webdriver.chrome.driver", "C:\\MANIKANDAN\\chromedriver_win32\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "..//HABITOS_ERP//resources//chromedriver.exe");
 
 			d = new ChromeDriver();
 
@@ -1736,7 +1738,7 @@ public class CRM {
 
 			Thread.sleep(500);
 
-			d.manage().window().maximize();
+		//	d.manage().window().maximize();
 
 			Thread.sleep(200);
 
@@ -1772,7 +1774,7 @@ public class CRM {
 		hts.beforeTest();
 		
 		System.out.println("2nd method is running");
-		hts.Login_invalid();
+	//	hts.Login_invalid();
 		
 		System.out.println("3rd method is running");
 		hts.Login_valid();

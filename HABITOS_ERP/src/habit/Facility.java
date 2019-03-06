@@ -469,7 +469,7 @@ public class Facility {
 
 			Thread.sleep(500);
 
-			d.manage().window().maximize();
+		//	d.manage().window().maximize();
 
 			logger.info("if the browser gets correct ip address");
 			

@@ -1154,3 +1154,64 @@
 2019-02-27 10:27:31,047 [main] ERROR  Habitos - ERP - Verify that whether the assign button is enabled or not
 2019-02-27 10:27:34,762 [main] INFO  Habitos - ERP - Verify that if click proceed to menu button it should redirect to related screen
 2019-02-27 10:27:40,474 [main] INFO  Habitos - ERP - verify that user can able to click edit button
+2019-03-06 10:02:50,324 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 13:02:52,896 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 13:02:57,320 [main] INFO  Habitos - ERP - browser gets valid ip address
+2019-03-06 13:02:57,322 [main] INFO  Habitos - ERP - ********** Verify that use can able to login with correct username & incorrect password***********
+2019-03-06 13:02:57,622 [main] INFO  Habitos - ERP - Verify that if the User Name field is present 
+2019-03-06 13:02:57,649 [main] INFO  Habitos - ERP - Verify that if the username fields get autofocus
+2019-03-06 13:02:58,129 [main] INFO  Habitos - ERP - Verify that if the Password  field is present 
+2019-03-06 13:02:58,166 [main] INFO  Habitos - ERP - Verify that if the password fields get focused
+2019-03-06 13:02:59,356 [main] INFO  Habitos - ERP - Verify that if the user can't able to login with correct un & incorrect password
+2019-03-06 13:03:45,007 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 13:03:49,827 [main] INFO  Habitos - ERP - browser gets valid ip address
+2019-03-06 13:03:49,829 [main] INFO  Habitos - ERP - ********** Verify that use can able to login with correct username & incorrect password***********
+2019-03-06 13:03:50,125 [main] INFO  Habitos - ERP - Verify that if the User Name field is present 
+2019-03-06 13:03:50,150 [main] INFO  Habitos - ERP - Verify that if the username fields get autofocus
+2019-03-06 13:03:50,528 [main] INFO  Habitos - ERP - Verify that if the Password  field is present 
+2019-03-06 13:03:50,558 [main] INFO  Habitos - ERP - Verify that if the password fields get focused
+2019-03-06 13:03:51,668 [main] INFO  Habitos - ERP - Verify that if the user can't able to login with correct un & incorrect password
+2019-03-06 13:08:02,058 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 13:08:06,532 [main] INFO  Habitos - ERP - browser gets valid ip address
+2019-03-06 13:08:06,534 [main] INFO  Habitos - ERP - ********** Verify that use can able to login with correct username & incorrect password***********
+2019-03-06 13:08:06,809 [main] INFO  Habitos - ERP - Verify that if the User Name field is present 
+2019-03-06 13:08:06,832 [main] INFO  Habitos - ERP - Verify that if the username fields get autofocus
+2019-03-06 13:08:07,355 [main] INFO  Habitos - ERP - Verify that if the Password  field is present 
+2019-03-06 13:08:07,377 [main] INFO  Habitos - ERP - Verify that if the password fields get focused
+2019-03-06 13:08:08,629 [main] INFO  Habitos - ERP - Verify that if the user can't able to login with correct un & incorrect password
+2019-03-06 13:08:44,120 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 13:08:48,296 [main] INFO  Habitos - ERP - browser gets valid ip address
+2019-03-06 13:19:06,316 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 13:19:10,813 [main] INFO  Habitos - ERP - browser gets valid ip address
+2019-03-06 13:19:13,102 [main] INFO  Habitos - ERP - Verify that if the User Name field is present 
+2019-03-06 13:19:13,129 [main] INFO  Habitos - ERP - Verify that if the username fields get autofocus
+2019-03-06 13:19:13,521 [main] INFO  Habitos - ERP - Verify that if the Password  field is present 
+2019-03-06 13:19:13,608 [main] INFO  Habitos - ERP - Verify that if the password fields get focused
+2019-03-06 13:19:13,822 [main] INFO  Habitos - ERP - Verify that user can able to login the valid credentials
+2019-03-06 13:19:31,630 [main] ERROR  Habitos - CRM Info - Verify that if click CRM info it should redirect to crm info index screen 
+2019-03-06 13:19:41,911 [main] ERROR  Habitos - CRM Info - Verify that if click add new button it should redirect to add new screen
+2019-03-06 14:28:30,066 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 14:35:50,228 [main] INFO  Habitos - ERP - browser gets open
+2019-03-06 14:35:53,314 [main] INFO  Habitos - ERP - browser gets valid ip address
+2019-03-06 14:35:55,587 [main] INFO  Habitos - ERP - Verify that if the User Name field is present 
+2019-03-06 14:35:55,618 [main] INFO  Habitos - ERP - Verify that if the username fields get autofocus
+2019-03-06 14:35:55,994 [main] INFO  Habitos - ERP - Verify that if the Password  field is present 
+2019-03-06 14:35:56,024 [main] INFO  Habitos - ERP - Verify that if the password fields get focused
+2019-03-06 14:35:56,319 [main] INFO  Habitos - ERP - Verify that user can able to login the valid credentials
+2019-03-06 14:36:09,217 [main] ERROR  Habitos - CRM Info - Verify that if click CRM info it should redirect to crm info index screen 
+2019-03-06 14:36:09,460 [main] ERROR  Habitos - CRM Info - Verify that if click add new button it should redirect to add new screen
+2019-03-06 14:36:09,483 [main] ERROR  Habitos - CRM Info - Verify that user can able to select the meal time
+2019-03-06 14:36:09,494 [main] ERROR  Habitos - CRM Info - Verify that user can able to select meal type
+2019-03-06 14:36:09,512 [main] ERROR  Habitos - CRM Info - Verify that user can able to select Student type
+2019-03-06 14:36:09,522 [main] ERROR  Habitos - CRM Info - Verify that user can able to enter the total count
+2019-03-06 14:36:09,531 [main] INFO  Habitos - CRM Info - Verify that user can able to select the consume time
+2019-03-06 14:36:09,541 [main] INFO  Habitos - CRM Info - Verify that user can able to select the dispatch time
+2019-03-06 14:36:09,551 [main] INFO  Habitos - CRM Info - Verify that user can able to select the delivery time
+2019-03-06 14:36:09,566 [main] ERROR  Habitos - CRM Info - If click Add button it should create a new row
+2019-03-06 14:36:09,577 [main] ERROR  Habitos - CRM Info - Verify that user can able to select the meal time
+2019-03-06 14:36:09,586 [main] ERROR  Habitos - CRM Info - Verify that user can able to select meal type
+2019-03-06 14:36:09,597 [main] ERROR  Habitos - CRM Info - Verify that user can able to select Student type
+2019-03-06 14:36:09,619 [main] ERROR  Habitos - CRM Info - Verify that user can able to enter the total count
+2019-03-06 14:36:09,636 [main] INFO  Habitos - CRM Info - Verify that user can able to select the consume time
+2019-03-06 14:36:09,650 [main] INFO  Habitos - CRM Info - Verify that user can able to select the dispatch time
+2019-03-06 14:36:09,660 [main] INFO  Habitos - CRM Info - Verify that user can able to select the delivery time

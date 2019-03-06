@@ -27,7 +27,7 @@ public class New_Testing {
 
 		Thread.sleep(500);
 
-		d.manage().window().maximize();
+//		d.manage().window().maximize();
 
 		Thread.sleep(200);
 

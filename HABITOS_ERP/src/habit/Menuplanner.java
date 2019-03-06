@@ -15,7 +15,6 @@ import java.text.SimpleDateFormat;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.PropertyConfigurator;
-import org.openqa.grid.web.servlet.handler.SeleniumBasedRequest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -1410,7 +1409,7 @@ public class Menuplanner {
 
 			Thread.sleep(500);
 
-			d.manage().window().maximize();
+		// 	d.manage().window().maximize();
 
 			Thread.sleep(200);
 
