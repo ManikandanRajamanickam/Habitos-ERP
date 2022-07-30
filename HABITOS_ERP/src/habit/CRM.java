@@ -83,7 +83,15 @@ public class CRM {
  
 			System.out.println("TESTNGINGIN");
  
-			System.out.println("TESTNGINGIN");
+			if (pwd.isDisplayed()) {
+
+				logger.info("Verify that if the Password  field is present ");
+
+			} else {
+
+				logger.error("Verify that if the Password  field is present ");
+
+			}
 			System.out.println("TESTNGINGIN");
 			System.out.println("TESTNGINGIN");
 			System.out.println("TESTNGINGIN");
